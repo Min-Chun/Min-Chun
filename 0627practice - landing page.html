@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Startup</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!-- Bootstrap4.3.1 CSS from a CDN. This way you don't have to include the bootstrap file yourself -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- Your own stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../css/0627practice - landing page.css">
+</head>
+
+<body>
+    <div class="container d-flex h-100 align-items-center">
+        <div class="row">
+            <header class="text-center col-12">
+                <h1 class="text-uppercase"><strong>biggest startup event of the year</strong></h1>
+            </header>
+            <div class="buffer col-12"></div>
+            <section class="text-center col-12">
+                <hr>
+                <a href="https://mailchi.mp/ac0d79d86ec3/startuplandingpage">
+                    <button class="btn btn-primary btn-xl">Find out more</button>
+                </a>
+            </section>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
